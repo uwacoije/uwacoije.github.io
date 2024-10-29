@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://uwacoije.github.io/sitemap_index.uwacoije
